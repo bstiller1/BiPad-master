@@ -1,0 +1,18 @@
+c:\users\triosstudent\documents\visual studio 2013\Projects\BiPad\BiPad\bin\Debug\BiPad.exe.config
+c:\users\triosstudent\documents\visual studio 2013\Projects\BiPad\BiPad\bin\Debug\BiPad.exe
+c:\users\triosstudent\documents\visual studio 2013\Projects\BiPad\BiPad\bin\Debug\BiPad.pdb
+c:\users\triosstudent\documents\visual studio 2013\Projects\BiPad\BiPad\obj\Debug\BiPad.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2013\Projects\BiPad\BiPad\obj\Debug\BiPad.Form1.resources
+c:\users\triosstudent\documents\visual studio 2013\Projects\BiPad\BiPad\obj\Debug\BiPad.Properties.Resources.resources
+c:\users\triosstudent\documents\visual studio 2013\Projects\BiPad\BiPad\obj\Debug\BiPad.csproj.GenerateResource.Cache
+c:\users\triosstudent\documents\visual studio 2013\Projects\BiPad\BiPad\obj\Debug\BiPad.exe
+c:\users\triosstudent\documents\visual studio 2013\Projects\BiPad\BiPad\obj\Debug\BiPad.pdb
+C:\Users\triosStudent\Downloads\BiPad-master\BiPad-master\bin\Debug\BiPad.exe.config
+C:\Users\triosStudent\Downloads\BiPad-master\BiPad-master\obj\Debug\BiPad.exe
+C:\Users\triosStudent\Downloads\BiPad-master\BiPad-master\obj\Debug\BiPad.pdb
+C:\Users\triosStudent\Downloads\BiPad-master\BiPad-master\bin\Debug\BiPad.exe
+C:\Users\triosStudent\Downloads\BiPad-master\BiPad-master\bin\Debug\BiPad.pdb
+C:\Users\triosStudent\Downloads\BiPad-master\BiPad-master\obj\Debug\BiPad.csprojResolveAssemblyReference.cache
+C:\Users\triosStudent\Downloads\BiPad-master\BiPad-master\obj\Debug\BiPad.Form1.resources
+C:\Users\triosStudent\Downloads\BiPad-master\BiPad-master\obj\Debug\BiPad.Properties.Resources.resources
+C:\Users\triosStudent\Downloads\BiPad-master\BiPad-master\obj\Debug\BiPad.csproj.GenerateResource.Cache
